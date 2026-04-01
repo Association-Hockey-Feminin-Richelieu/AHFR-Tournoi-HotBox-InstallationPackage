@@ -1,0 +1,23 @@
+# General
+.DS_Store
+*.log
+
+# PHP Composer
+composer.lock
+/app/vendor
+
+# Others
+/certs/
+# TOS.php
+note.txt
+tmp_psp*
+note.md
+
+exemple.html
+test.txt
+
+# Synthetic data
+sponsors.json
+teams.json
+teamsbyID.json
+schedule.json

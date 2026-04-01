@@ -1,0 +1,17 @@
+{
+  
+  "installer": {},
+
+  "controller": {
+    "releases": {
+      "channels": {
+        "dev": {
+          "latest": "2.2.131"
+        },
+        "stable": {
+          "latest": "2.2.135"
+        }
+      }
+    }
+  }
+}
