@@ -1,0 +1,24 @@
+#DIVISION   LEVEL  NAME               COLOR
+
+M12,        AA,    Remparts Ouest,    #E5A953
+M12,        AA,    Remparts Est,      #E5A953
+
+M12,        A,     Felines,           #00A9FF
+M12,        A,     Fauves,            #00A9FF
+M12,        A,     Lionnes,           #00A9FF
+M12,        A,     Lynx,              #00A9FF
+M12,        A,     Pantheres,         #00A9FF
+M12,        A,     Pumas,             #00A9FF
+M12,        A,     Sphynx,            #00A9FF
+
+M12,        B,     Felines,           #00A9FF
+M12,        B,     Fauves,            #00A9FF
+M12,        B,     Lionnes,           #00A9FF
+M12,        B,     Lynx,              #00A9FF
+M12,        B,     Pantheres,         #00A9FF
+M12,        B,     Pumas,             #00A9FF
+M12,        B,     Sphynx,            #00A9FF
+
+M15,        AA,    Remparts Ouest,    #E5A953
+M15,        AA,    Remparts Centre,   #E5A953
+M15,        AA,    Remparts Est,      #E5A953

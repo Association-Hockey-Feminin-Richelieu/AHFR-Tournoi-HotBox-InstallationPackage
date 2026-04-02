@@ -1,0 +1,12 @@
+[
+  {
+    "enable": true,
+    "display": { "label": "Bienvenue !", "bgColor": "#008EFF" },
+    "action": "showText", "parameters": { "text": "Bienvenue !", "textColor": "008EFF", "brightness": "auto" }
+  },
+  {
+    "enable": true,
+    "display": { "label": "2026", "bgColor": "#008EFF" },
+    "action": "showText", "parameters": { "text": "2026", "textColor": "008EFF", "brightness": "auto" }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "name": "Default", "colors": { "team": "#FFDE5F", "division": "#FFFFFF", "level":"#FFFFFF", "separator": "#FF5555" } },
+  { "name": "Association-1", "colors": { "team": "#4C62B8", "division": "#FFFFFF", "level": "#FFFFFF", "separator": "#D08D1B" } },
+  { "name": "Association-2", "colors": { "team": "#4C62B8", "division": "#A34343", "level": "#FFFFFF", "separator": "#D08D1B" } },
+  { "name": "Colorfull", "colors": { "team": "#FFDE5F", "division": "#FFFFFF", "level": "#A43D3D", "separator": "#5F55EC" } },
+  { "name": "Pink/Green Candy", "colors": { "team": "#D62E61", "division": "#FFFFFF", "level": "#FFFFFF", "separator": "#46A52C" } }
+]
